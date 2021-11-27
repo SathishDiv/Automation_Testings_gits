@@ -4,15 +4,17 @@ public class FirstOne {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("DataScience");
+		System.out.println("Dlf");
 		
-		System.out.println("Ai");
+		System.out.println("Ibm");
 		
-		System.out.println("Tosca");
+		System.out.println("Tcs");
 		
-		System.out.println("Uft");
+		System.out.println("Cts");
 		
-		System.out.println("oracle");
+		System.out.println("Hcl");
+		
+		System.out.println("Infosys");
 	}
 
 }
